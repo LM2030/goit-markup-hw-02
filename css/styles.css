@@ -26,7 +26,7 @@ body {
 }
 
 .hero {
-   background-color: var(--background-back-color); 
+    background-color: var(--background-back-color);
 }
 
 .hero .text {
