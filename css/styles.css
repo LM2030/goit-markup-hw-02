@@ -40,7 +40,8 @@ body {
 }
 
 .hero-button {
-    font-family: inherit font-weight: 700;
+    font-family: 'Roboto';
+    font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
     align-items: center;
@@ -178,9 +179,9 @@ body {
 .benefits .head,
 .examples .name {
     font-weight: 700;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.03em;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
     color: var(--title-text-color);
 }
 
